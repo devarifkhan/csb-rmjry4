@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://devarifkhan.github.io/csb-rmjry4/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://devarifkhan.github.io/csb-rmjry4/static/js/main.8cf0ded0.chunk.js",
+    "main.js.map": "https://devarifkhan.github.io/csb-rmjry4/static/js/main.8cf0ded0.chunk.js.map",
+    "runtime-main.js": "https://devarifkhan.github.io/csb-rmjry4/static/js/runtime-main.fddc37dc.js",
+    "runtime-main.js.map": "https://devarifkhan.github.io/csb-rmjry4/static/js/runtime-main.fddc37dc.js.map",
+    "static/js/2.a4daf67f.chunk.js": "https://devarifkhan.github.io/csb-rmjry4/static/js/2.a4daf67f.chunk.js",
+    "static/js/2.a4daf67f.chunk.js.map": "https://devarifkhan.github.io/csb-rmjry4/static/js/2.a4daf67f.chunk.js.map",
+    "index.html": "https://devarifkhan.github.io/csb-rmjry4/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://devarifkhan.github.io/csb-rmjry4/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.a4daf67f.chunk.js.LICENSE.txt": "https://devarifkhan.github.io/csb-rmjry4/static/js/2.a4daf67f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fddc37dc.js",
+    "static/js/2.a4daf67f.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.8cf0ded0.chunk.js"
+  ]
+}
